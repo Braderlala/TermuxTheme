@@ -1,7 +1,7 @@
 # TermuxTheme
 Theme for termux
 
-#install
+# Install
 ```
 $ pip install colorama
 
